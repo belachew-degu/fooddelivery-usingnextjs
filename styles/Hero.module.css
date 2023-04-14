@@ -44,10 +44,12 @@
     position: relative;
 }
 .imageContainer{
-    width: 38rem;
+    width: 30rem;
+    height: 22rem;
     position: absolute;
-    top: -5rem;
-    left: -5rem;
+    top: 5rem;
+   left: 15rem;
+    margin-right: -5rem;
 }
 
 
@@ -60,7 +62,7 @@
     padding: 1rem;
     border-radius: 5rem;
     top: 6rem;
-    left: -6rem;
+    left: -10rem;
     gap: 1rem;
     background-color: white;
     box-shadow: var(--shadow);
